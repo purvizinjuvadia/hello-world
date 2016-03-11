@@ -1,2 +1,3 @@
-# hello-world
-First time on Github and my first Repository
+Hi my name is purvi.
+
+I am learning how to use github.
